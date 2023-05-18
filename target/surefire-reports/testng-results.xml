@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-16T18:51:29 IST" name="Surefire suite" finished-at="2023-05-16T18:52:18 IST" duration-ms="48434">
+    <groups>
+    </groups>
+    <test started-at="2023-05-16T18:51:29 IST" name="Surefire test" finished-at="2023-05-16T18:52:18 IST" duration-ms="48434">
+      <class name="test_method.Hrms_method">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:26 IST" name="Launch" finished-at="2023-05-16T18:51:29 IST" duration-ms="3556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="x()[pri:0, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:29 IST" name="x" finished-at="2023-05-16T18:51:29 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+        <test-method signature="Username()[pri:1, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:29 IST" name="Username" finished-at="2023-05-16T18:51:31 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Username -->
+        <test-method signature="Password()[pri:2, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:31 IST" name="Password" finished-at="2023-05-16T18:51:48 IST" duration-ms="17946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Password -->
+        <test-method signature="Information_centre()[pri:3, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:48 IST" name="Information_centre" finished-at="2023-05-16T18:51:50 IST" duration-ms="1061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Information_centre -->
+        <test-method signature="Member_list()[pri:4, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:50 IST" name="Member_list" finished-at="2023-05-16T18:51:51 IST" duration-ms="1427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Member_list -->
+        <test-method signature="Search_type()[pri:5, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:51 IST" name="Search_type" finished-at="2023-05-16T18:51:52 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_type -->
+        <test-method signature="Search_for()[pri:6, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:52 IST" name="Search_for" finished-at="2023-05-16T18:51:59 IST" duration-ms="6960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_for -->
+        <test-method signature="User1_mailupadte()[pri:7, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:51:59 IST" name="User1_mailupadte" finished-at="2023-05-16T18:52:00 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1_mailupadte -->
+        <test-method signature="Mail2_button()[pri:8, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:00 IST" name="Mail2_button" finished-at="2023-05-16T18:52:03 IST" duration-ms="2644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mail2_button -->
+        <test-method signature="User2_button()[pri:9, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:03 IST" name="User2_button" finished-at="2023-05-16T18:52:05 IST" duration-ms="1931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2_button -->
+        <test-method signature="User2_mailupadte()[pri:10, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:05 IST" name="User2_mailupadte" finished-at="2023-05-16T18:52:06 IST" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2_mailupadte -->
+        <test-method signature="Mail3_button()[pri:11, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:06 IST" name="Mail3_button" finished-at="2023-05-16T18:52:09 IST" duration-ms="2626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mail3_button -->
+        <test-method signature="User3_button()[pri:12, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:09 IST" name="User3_button" finished-at="2023-05-16T18:52:10 IST" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User3_button -->
+        <test-method signature="User3_movebutton()[pri:13, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:10 IST" name="User3_movebutton" finished-at="2023-05-16T18:52:11 IST" duration-ms="1236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User3_movebutton -->
+        <test-method signature="User3_mailupadte()[pri:14, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:11 IST" name="User3_mailupadte" finished-at="2023-05-16T18:52:13 IST" duration-ms="1488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User3_mailupadte -->
+        <test-method signature="user4_button()[pri:15, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:13 IST" name="user4_button" finished-at="2023-05-16T18:52:16 IST" duration-ms="2910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user4_button -->
+        <test-method signature="Mail4_mailupadte()[pri:16, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:16 IST" name="Mail4_mailupadte" finished-at="2023-05-16T18:52:18 IST" duration-ms="1684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mail4_mailupadte -->
+        <test-method is-config="true" signature="y()[pri:0, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:18 IST" name="y" finished-at="2023-05-16T18:52:18 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_method.Hrms_method@5cee5251]" started-at="2023-05-16T18:52:18 IST" name="close" finished-at="2023-05-16T18:52:18 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test_method.Hrms_method -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
