@@ -19,7 +19,7 @@ public class PharmEasy_base {
 	public   void intilization() throws InterruptedException 
 	{
 		try {
-				FileInputStream fs=new FileInputStream("C:\\Users\\isrivastava\\eclipse-workspace\\Pharmeasy_application\\src\\test\\java\\test_base\\pharmEasy.properties");
+				FileInputStream fs=new FileInputStream("./pharmEasy.properties");
 				prop=new Properties();
 				prop.load(fs);
 				
