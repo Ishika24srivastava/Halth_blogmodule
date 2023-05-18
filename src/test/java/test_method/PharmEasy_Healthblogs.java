@@ -37,7 +37,7 @@ public class PharmEasy_Healthblogs extends PharmEasy_base {
 	public void x() 
 	{
 		
-		extent=new ExtentReports("C:\\Users\\isrivastava\\eclipse-workspace\\Pharmeasy_application\\Healthblogs_testexecutionReport1.html",true);	
+		extent=new ExtentReports("./reports\\Healthblogs_testexecutionReport1.html",true);	
 	}
 	
 	
